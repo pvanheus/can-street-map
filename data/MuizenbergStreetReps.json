@@ -7,69 +7,69 @@
   },
   {
     "id": "2",
-    "locationName": "Alexander and Watson",
-    "repName": "Elin",
+    "locationName": "Alexander Road",
+    "repName": "Elin, Doddy and Wayne",
     "locationType": "Road"
   },
   {
     "id": "3",
-    "locationName": "Alexander Road",
-    "repName": "Doddy and Wayne",
-    "locationType": "Road"
-  },
-  {
-    "id": "4",
     "locationName": "Amberley Road",
     "repName": "Noleen and Kelly",
     "locationType": "Road"
   },
   {
-    "id": "5",
+    "id": "4",
     "locationName": "Arthur Road",
     "repName": "Cara and Nadia",
     "locationType": "Road"
   },
   {
-    "id": "6",
+    "id": "5",
     "locationName": "Atlantic Road",
     "repName": "Simbisai",
     "locationType": "Road"
   },
   {
-    "id": "7",
+    "id": "6",
     "locationName": "Axminster Road",
     "repName": "Joah",
     "locationType": "Road"
   },
   {
-    "id": "8",
+    "id": "7",
     "locationName": "Beach Road",
     "repName": "Johan",
     "locationType": "Road"
   },
   {
-    "id": "9",
+    "id": "8",
     "locationName": "Bournemouth Road",
     "repName": "Elaine",
     "locationType": "Road"
   },
   {
-    "id": "10",
+    "id": "9",
     "locationName": "Boyes Drive",
     "repName": "Camilla",
+    "locationType": "Road"
+  },
+  {
+    "id": "10",
+    "locationName": "Church Road",
+    "repName": "Sally, Jesse, Simone, Jo and Morgan",
     "locationType": "Road"
   },
   {
     "id": "11",
     "locationName": "Cinnabar",
     "repName": "Paul",
-    "locationType": "Flats"
+    "locationType": "Building"
   },
   {
     "id": "12",
     "locationName": "Clarendon Court",
     "repName": "Kevin",
-    "locationType": "Flats"
+    "locationType": "Building"
   },
   {
     "id": "13",
@@ -79,9 +79,9 @@
   },
   {
     "id": "14",
-    "locationName": "Cromer and Church",
+    "locationName": "Cromer Road",
     "repName": "Sally, Jesse, Simone, Jo and Morgan",
-    "locationType": "Multiple"
+    "locationType": "Road"
   },
   {
     "id": "15",
@@ -169,7 +169,7 @@
   },
   {
     "id": "29",
-    "locationName": "Saint Heliers Road",
+    "locationName": "Saint Helliers Road",
     "repName": "Josh and Fergus",
     "locationType": "Road"
   },
@@ -187,30 +187,36 @@
   },
   {
     "id": "32",
+    "locationName": "Watson Road",
+    "repName": "Elin",
+    "locationType": "Road"
+  },
+  {
+    "id": "33",
     "locationName": "Westbury Road",
     "repName": "Liesl",
     "locationType": "Road"
   },
   {
-    "id": "33",
+    "id": "34",
     "locationName": "Wherry Road",
     "repName": "Peter, Xanny and Heather",
     "locationType": "Road"
   },
   {
-    "id": "34",
+    "id": "35",
     "locationName": "Windermere Road",
     "repName": "Annari and Leanne",
     "locationType": "Road"
   },
   {
-    "id": "35",
+    "id": "36",
     "locationName": "Yarmouth Close",
     "repName": "Roxy",
     "locationType": "Road"
   },
   {
-    "id": "36",
+    "id": "37",
     "locationName": "Yarmouth Road",
     "repName": "Ashley, Glendyr and Laurence",
     "locationType": "Road"

@@ -1,18 +1,18 @@
 id,locationName,repName,locationType
 1,Albertyn Road,Jono,Road
-2,Alexander and Watson,Elin,Road
-3,Alexander Road,Doddy and Wayne,Road
-4,Amberley Road,Noleen and Kelly,Road
-5,Arthur Road,Cara and Nadia,Road
-6,Atlantic Road,Simbisai,Road
-7,Axminster Road,Joah,Road
-8,Beach Road,Johan,Road
-9,Bournemouth Road,Elaine,Road
-10,Boyes Drive,Camilla,Road
-11,Cinnabar,Paul,Flats
-12,Claredon Court,Kevin,Flats
+2,Alexander Road,"Elin, Doddy and Wayne",Road
+3,Amberley Road,Noleen and Kelly,Road
+4,Arthur Road,Cara and Nadia,Road
+5,Atlantic Road,Simbisai,Road
+6,Axminster Road,Joah,Road
+7,Beach Road,Johan,Road
+8,Bournemouth Road,Elaine,Road
+9,Boyes Drive,Camilla,Road
+10,Church Road,"Sally, Jesse, Simone, Jo and Morgan",Road
+11,Cinnabar,Paul,Building
+12,Clarendon Court,Kevin,Building
 13,Clifton Road,Marc,Road
-14,Cromer and Church,"Sally, Jesse, Simone, Jo and Morgan",Multiple
+14,Cromer Road,"Sally, Jesse, Simone, Jo and Morgan",Road
 15,Dover Road,"Sharon, Rebecca and Tracey",Road
 16,Ermington Road,Vincent and Peter,Road
 17,George Road,Dickie and Ettiene,Road
@@ -27,11 +27,12 @@ id,locationName,repName,locationType
 26,Rhodesia Road,Kat,Road
 27,Scarborough Road,Bridget and Jenny,Road
 28,Sea View Road,Madison,Road
-29,Saint Heliers Road,Josh and Fergus,Road
+29,Saint Helliers Road,Josh and Fergus,Road
 30,Upper Towers Road,Jasmin and Andrea,Road
 31,Ventnor Road,Jenna and Deb,Road
-32,Westbury Road,Liesl,Road
-33,Wherry Road,"Peter, Xanny and Heather",Road
-34,Windermere Road,Annari and Leanne,Road
-35,Yarmouth Close,Roxy,Road
-36,Yarmouth Road,"Ashley, Glendyr and Laurence",Road
+32,Watson Road,Elin,Road
+33,Westbury Road,Liesl,Road
+34,Wherry Road,"Peter, Xanny and Heather",Road
+35,Windermere Road,Annari and Leanne,Road
+36,Yarmouth Close,Roxy,Road
+37,Yarmouth Road,"Ashley, Glendyr and Laurence",Road
